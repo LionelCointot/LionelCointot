@@ -1,5 +1,6 @@
 # 💫 About Me:
-test
+
+🌱 Je suis constamment en train d'apprendre et d'améliorer mes compétences. Je partage mes connaissances et mes projets sur ce profil GitHub, en espérant pouvoir aider d'autres développeurs et apprendre d'eux également.
 
 
 ## 🌐 Socials:
