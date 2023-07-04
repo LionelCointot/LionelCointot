@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-🌱 Je suis constamment en train d'apprendre et d'améliorer mes compétences. Je partage mes connaissances et mes projets sur ce profil GitHub, en espérant pouvoir aider d'autres développeurs et apprendre d'eux également.
+🔭 I'm passionate about programming and focus mainly on python development. I love exploring new technologies and finding solutions to complex problems.
+
+🌱 I am constantly learning and improving my skills. I share my knowledge and projects on this GitHub profile, hoping to help other developers and learn from them as well !
 
 
 ## 🌐 Socials:
